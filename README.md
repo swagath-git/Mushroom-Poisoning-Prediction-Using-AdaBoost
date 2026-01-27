@@ -41,5 +41,5 @@ These features play a critical role in determining mushroom safety.
 
 #  Important Disclaimer
 This project is intended for educational and awareness purposes only
-It should not be solely relied upon for real-world mushroom consumption decisions.
+It should not be solely relied upon for real-world mushroom consumption decisions
 
